@@ -24,4 +24,7 @@ gcc -o sender.c send.out
 ### Output
 ![image](https://github.com/user-attachments/assets/9fcc7e20-5009-4d8f-90c8-a8891512d55a)
 ![image](https://github.com/user-attachments/assets/df5b2454-578b-4628-af1a-94bdc5dcc61a)
-
+<br/>
+### Contributors
+[Fizza Kashif](https://github.com/fizza49)
+[Hareem Fatima](https://github.com/HareemFatima5)
